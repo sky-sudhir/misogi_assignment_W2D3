@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "problem": "If a train travels at a speed of 40 miles per hour, how many hours will it take to travel 280 miles?",
+    "answer": 7
+  },
+  {
+    "id": 2,
+    "problem": "A store is offering a 15% discount on all items. If an item originally costs $80, what is the discounted price?",
+    "answer": 68
+  },
+  {
+    "id": 3,
+    "problem": "If 3 workers can complete a task in 12 hours, how many hours would it take 6 workers to complete the same task?",
+    "answer": 6
+  },
+  {
+    "id": 4,
+    "problem": "A car travels 150 miles in 3 hours. At this rate, how many miles will it travel in 5 hours?",
+    "answer": 250
+  },
+  {
+    "id": 5,
+    "problem": "If the ratio of boys to girls in a class is 3:5, and there are 24 boys, how many students are in the class?",
+    "answer": 64
+  },
+  {
+    "id": 6,
+    "problem": "A rectangular garden has a length of 12 meters and a width of 8 meters. What is the area of the garden in square meters?",
+    "answer": 96
+  },
+  {
+    "id": 7,
+    "problem": "If a shirt costs $25 and is on sale for 20% off, what is the sale price?",
+    "answer": 20
+  },
+  {
+    "id": 8,
+    "problem": "If 4 pencils cost $1.20, how much would 10 pencils cost?",
+    "answer": 3
+  },
+  {
+    "id": 9,
+    "problem": "A recipe calls for 2.5 cups of flour to make 2 dozen cookies. How many cups of flour are needed to make 5 dozen cookies?",
+    "answer": 6.25
+  },
+  {
+    "id": 10,
+    "problem": "If a box contains 5 red marbles, 3 blue marbles, and 7 green marbles, what is the probability of randomly selecting a blue marble?",
+    "answer": 0.2
+  }
+]
